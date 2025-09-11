@@ -106,3 +106,10 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+## 📝 My Notes (Paridhi)
+
+- I read the GitHub basics and now understand that **commits** are checkpoints and **push** sends my work to GitHub.
+- Branches feel like safe sandboxes to try changes without breaking `main`.
+- Still curious about when to pick **fork** vs **branch** on team projects.
